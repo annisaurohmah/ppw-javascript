@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans&family=Poppins&display=swap');
+* {
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    padding: 0;
+    background-color: #F1F6F9;
+}
+h1 {
+    max-width: 100%;
+    width: 450px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;;
+    color: #212A3E;
+}
